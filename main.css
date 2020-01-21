@@ -1,0 +1,12 @@
+.container-bloques{
+    display: flex;
+    flex-direction: column;
+}
+
+.bloque-uno, .bloque-dos, .bloque-tres, .bloque-cuatro{
+    border: 1px solid black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+
+}
